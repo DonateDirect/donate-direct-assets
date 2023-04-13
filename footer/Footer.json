@@ -1,0 +1,168 @@
+{
+  "companyName": "DonateDirect Ltd.",
+  "ABN": "24 608 967 264",
+  "termAndConditionLink": {
+    "text": "Terms and Conditions",
+    "url": "terms-and-conditions"
+  },
+  "privacyLink": {
+
+    "text": "Privacy Policy",
+    "url": "privacy-policy"
+  },
+  "footerColumns": [
+    {
+      "groupHeader": "Info",
+      "links": [
+        {
+          "text": "FAQs",
+          "url": "faq"
+        },
+        {
+          "text": "Resources",
+          "url": "resources"
+        },
+        {
+          "text": "Volunteer with DonateDirect",
+          "url": "volunteer-with-donatedirect"
+        },
+        {
+          "text": "Become a sponsor",
+          "url": "become-a-sponsor"
+        },
+        {
+          "text": "Contact Us",
+          "url": "contact-us"
+        }
+      ]
+    },
+    {
+      "groupHeader": "For Donors and Community Organisations",
+      "links": [
+        {
+          "text": "Who can donate",
+          "url": "who-can-donate"
+        },
+        {
+          "text": "How to donate items",
+          "url": "how-to-donate-items"
+        },
+        {
+          "text": "Community Organisations",
+          "url": "community-organisations"
+        }
+      ]
+    },
+    {
+      "groupHeader": "Learn more about us",
+      "links": [
+        {
+          "text": "About DonateDirect",
+          "url": "about-us"
+        },
+        {
+          "text": "Our Story",
+          "url": "our-story"
+        },
+        {
+          "text": "Our Board",
+          "url": "our-board"
+        }
+      ]
+    },
+    {
+      "groupHeader": "Tips and Guides",
+      "links": [
+        {
+          "text": "How to Donate Furniture to Charity in Melbourne: A Complete Guide",
+          "url": "how-to-donate-furniture-in-melbourne"
+        }
+      ]
+    }
+  ],
+  "findUs": {
+    "title": "Find us on",
+    "socialMediaLinks": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/donatedirectau",
+        "icon": {
+          "data": {
+            "attributes": {
+              "width": 32,
+              "height": 32,
+              "url": "https://raw.githubusercontent.com/DonateDirect/donate-direct-assets/main/icons/twitter.svg"
+            }
+          }
+        }
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/donatedirectau/",
+        "icon": {
+          "data": {
+            "attributes": {
+              "width": 32,
+              "height": 32,
+              "url": "https://raw.githubusercontent.com/DonateDirect/donate-direct-assets/main/icons/facebook.svg"
+            }
+          }
+        }
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/donatedirectau/",
+        "icon": {
+          "data": {
+            "attributes": {
+              "width": 32,
+              "height": 32,
+              "url": "https://raw.githubusercontent.com/DonateDirect/donate-direct-assets/main/icons/instagram.svg"
+            }
+          }
+        }
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/company/donatedirect-australia",
+        "icon": {
+          "data": {
+            "attributes": {
+              "width": 32,
+              "height": 32,
+              "url": "https://raw.githubusercontent.com/DonateDirect/donate-direct-assets/main/icons/linkedin.svg"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "footerIcons": [
+    {
+      "name": "DonateDirect homepage",
+      "url": "/",
+      "icon": {
+        "data": {
+          "attributes": {
+            "width": 200,
+            "height": 46,
+            "url": "https://raw.githubusercontent.com/DonateDirect/donate-direct-assets/main/logo/donate-direct-logo.png"
+          }
+        }
+      }
+    },
+    {
+      "name": "ACNC registered charity logo",
+      "url": "https://www.acnc.gov.au/",
+      "icon": {
+        "data": {
+          "attributes": {
+            "width": 85,
+            "height": 85,
+            "url": "https://raw.githubusercontent.com/DonateDirect/donate-direct-assets/main/logo/ACNC_Logo.png"
+          }
+        }
+      }
+    }
+  ]
+}
